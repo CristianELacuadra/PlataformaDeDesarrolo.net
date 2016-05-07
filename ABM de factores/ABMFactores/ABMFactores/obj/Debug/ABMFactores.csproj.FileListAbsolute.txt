@@ -1,0 +1,6 @@
+c:\users\dr3\documents\visual studio 2015\Projects\ABMFactores\ABMFactores\bin\Debug\ABMFactores.exe.config
+C:\Users\DR3\documents\visual studio 2015\Projects\ABMFactores\ABMFactores\bin\Debug\ABMFactores.exe
+C:\Users\DR3\documents\visual studio 2015\Projects\ABMFactores\ABMFactores\bin\Debug\ABMFactores.pdb
+C:\Users\DR3\documents\visual studio 2015\Projects\ABMFactores\ABMFactores\obj\Debug\ABMFactores.csprojResolveAssemblyReference.cache
+C:\Users\DR3\documents\visual studio 2015\Projects\ABMFactores\ABMFactores\obj\Debug\ABMFactores.exe
+C:\Users\DR3\documents\visual studio 2015\Projects\ABMFactores\ABMFactores\obj\Debug\ABMFactores.pdb
